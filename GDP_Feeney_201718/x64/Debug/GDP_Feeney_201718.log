@@ -1,0 +1,10 @@
+﻿  TheMain.cpp
+e:\gdp\semester 2\gamejam\sobel\gamejam - copy - copy\mybulletphysics\bullet\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\gdp\semester 2\gamejam\sobel\gamejam - copy - copy\mybulletphysics\bullet\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\gdp\semester 2\gamejam\sobel\gamejam - copy - copy\mybulletphysics\bullet\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\gdp\semester 2\gamejam\sobel\gamejam - copy - copy\gdp_feeney_201718\particlesystem.h(93): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\gdp\semester 2\gamejam\sobel\gamejam - copy - copy\gdp_feeney_201718\themain.cpp(392): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\gdp\semester 2\gamejam\sobel\gamejam - copy - copy\gdp_feeney_201718\themain.cpp(1282): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\gdp\semester 2\gamejam\sobel\gamejam - copy - copy\gdp_feeney_201718\themain.cpp(1283): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\gdp\semester 2\gamejam\sobel\gamejam - copy - copy\gdp_feeney_201718\themain.cpp(1519): warning C4101: 'tarset': unreferenced local variable
+  GDP_Feeney_201718.vcxproj -> E:\GDP\Semester 2\GameJam\SOBEL\GameJam - Copy - Copy\x64\Debug\GDP_Feeney_201718.exe

@@ -1,0 +1,9 @@
+StreamFiles 1
+Uncompressed
+SoundFiles/Rain_And_Harp.mp3
+Compressed
+SoundFiles/Rain_And_Harp.mp3
+SampledFiles 2
+SampledSounds
+SoundFiles/Gravity_Change.mp3
+SoundFiles/jump.wav
